@@ -140,3 +140,67 @@ header h1 {
         transform: translateY(-5px);
     }
 }
+
+/* Sección de características, beneficios y usos */
+.features, .benefits, .uses {
+    padding: 40px 20px;
+    background-color: #f9f9f9;
+    margin: 20px 0;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.features h2, .benefits h2, .uses h2 {
+    color: #e60012;
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
+
+.features ul, .benefits ul, .uses ul {
+    list-style: disc;
+    padding-left: 40px;
+    text-align: left;
+}
+
+.features li, .benefits li, .uses li {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    color: #555;
+}
+
+/* Llamado a la acción final */
+.cta-final {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #e60012;
+    color: white;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+.cta-final h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.cta-final p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.cta-final .cta-button {
+    text-decoration: none;
+    background-color: white;
+    color: #e60012;
+    padding: 15px 30px;
+    border-radius: 50px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+}
+
+.cta-final .cta-button:hover {
+    background-color: #f2f2f2;
+    transform: scale(1.05);
+}
