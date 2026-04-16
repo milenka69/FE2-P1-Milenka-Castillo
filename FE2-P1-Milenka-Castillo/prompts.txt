@@ -1,4 +1,14 @@
 Etapa 1
 -necesito crear la base de un sitio web que promocione el lanzamiento de la nueva consola de nintendo, donde salga el nombre, la descripción y una presentación del producto
+
 este prompt se utilizo con el fin de crear la estructura base de la página. Su utilidad fue medianamente útil.
+
+Etapa 2 
+-necesito agregar un diseño llamativo, atractivo y amigable con la vista, combinando con el tema del sitio web
+
+El prompt fue creado con el fin de otorgarle un diseño al sitio, siendo de mucha utilidad
+
+-puedes agregar la imagen consola.png en la presentación del producto?
+
+su proposito fue agregar una imagen de referencia del producto, no ayudo en mucho. Arrojaba error.
 
