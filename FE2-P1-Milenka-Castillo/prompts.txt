@@ -12,3 +12,11 @@ El prompt fue creado con el fin de otorgarle un diseño al sitio, siendo de much
 
 su proposito fue agregar una imagen de referencia del producto, no ayudo en mucho. Arrojaba error.
 
+Etapa 3
+-  debo implementar más secciones, necesito las caracteristicas principales, además de sus beneficios y que muestre porque es mejor
+    que otras consolas en el mercado. Aquí te dejo un ejemplo de cómo podrías estructurar estas secciones adicionales:
+
+El prompt fue utilizado para agregar nuevas secciones a la página, fue de gran utilidad.
+
+-necesito agregarle un diseño a las nuevas secciones que agregue a la página, para que se vean más atractivas y organizadas. Podrías sugerirme algunos estilos CSS para mejorar la apariencia de estas secciones?
+
