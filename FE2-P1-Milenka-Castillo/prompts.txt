@@ -1,0 +1,4 @@
+Etapa 1
+-necesito crear la base de un sitio web que promocione el lanzamiento de la nueva consola de nintendo, donde salga el nombre, la descripción y una presentación del producto
+este prompt se utilizo con el fin de crear la estructura base de la página. Su utilidad fue medianamente útil.
+
