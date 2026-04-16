@@ -3,3 +3,14 @@ Etapa 1 - versión inicial
 
 Este prompt tiene el propósito de iniciar una página web con un formato básico y simple, siendo de buena utilidad.
 
+Etapa 2 - Mejora visual
+"puedes darle un mejor estilo? siendo llamativo,
+ atrayente y amigable para la vista, tambien que combine con el tema del sitio"
+
+Este prompt busca mejorar el estilo de la pagina para que sea atrayente y llamativo. Este
+termina siendo útil.
+
+"puedes darle alguna animación que llame la atención?"
+
+El prompt ayudo a darle una animación simple pero atrayente a la vista, siendo algo de utilidad.
+
