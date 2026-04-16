@@ -27,3 +27,9 @@ Etapa 4 - Adaptación a dispositivos móviles
 
 Este prompt aportó a una mejor visualización en distintos dispositivos electrónicos, siendo de gran utilidad.
 
+Etapa 5 - Mejora final obligatoria
+"puedes agregar una tabla donde especifique atributos técnicos releevantes y caracteristicas más importantes
+ y cosas asi como también componentes de hardware que utilice el producto?"
+
+El prompt utilizado permitio agregar una tabla con espeficaciones técnicas, agrgegando diversos atributos con
+su descripción, este terminó siendo totalmente útil. 
