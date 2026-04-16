@@ -1,4 +1,4 @@
-Etapa 1 - versión inicial
+Etapa 1 - Versión inicial
 "necesito hacer en index una promoción al lanzamiento de la consola de nintendo"
 
 Este prompt tiene el propósito de iniciar una página web con un formato básico y simple, siendo de buena utilidad.
@@ -21,5 +21,9 @@ Etapa 3 - Incorporación de contenido
 Este tuvo el propósito de incorporar más información sobre el producto promocionado, siendo de gran utilidad
 por el buen contenido ingresado. Además que también agrego el diseño para aquellas secciones nuevas.
 
+Etapa 4 - Adaptación a dispositivos móviles
+"necesito que la pagina sea adaptable para pantallas pequeñas igual, con una buena legibilidad
+ y distribución."
 
+Este prompt aportó a una mejor visualización en distintos dispositivos electrónicos, siendo de gran utilidad.
 

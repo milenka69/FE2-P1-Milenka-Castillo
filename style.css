@@ -77,70 +77,6 @@ header h1 {
     transform: scale(1.05);
 }
 
-/* Responsivo */
-@media (max-width: 768px) {
-    header h1 {
-        font-size: 2rem;
-    }
-
-    .container h2 {
-        font-size: 1.8rem;
-    }
-
-    .container p {
-        font-size: 1rem;
-    }
-
-    .cta a {
-        font-size: 1rem;
-        padding: 10px 20px;
-    }
-}
-
-/* Animaciones */
-@keyframes fadeIn {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 1;
-    }
-}
-
-@keyframes slideIn {
-    from {
-        transform: translateY(50px);
-        opacity: 0;
-    }
-    to {
-        transform: translateY(0);
-        opacity: 1;
-    }
-}
-
-@keyframes zoomIn {
-    from {
-        transform: scale(0.8);
-        opacity: 0;
-    }
-    to {
-        transform: scale(1);
-        opacity: 1;
-    }
-}
-
-@keyframes bounce {
-    0%, 20%, 50%, 80%, 100% {
-        transform: translateY(0);
-    }
-    40% {
-        transform: translateY(-10px);
-    }
-    60% {
-        transform: translateY(-5px);
-    }
-}
-
 /* Sección de características, beneficios y usos */
 .features, .benefits, .uses {
     padding: 40px 20px;
@@ -203,4 +139,49 @@ header h1 {
 .cta-final .cta-button:hover {
     background-color: #f2f2f2;
     transform: scale(1.05);
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+
+    .container h2 {
+        font-size: 1.8rem;
+    }
+
+    .container p {
+        font-size: 1rem;
+    }
+
+    .cta a {
+        font-size: 1rem;
+        padding: 10px 20px;
+    }
+
+    .features, .benefits, .uses {
+        padding: 20px 10px;
+    }
+
+    .features h2, .benefits h2, .uses h2 {
+        font-size: 1.5rem;
+    }
+
+    .features li, .benefits li, .uses li {
+        font-size: 1rem;
+    }
+
+    .cta-final h2 {
+        font-size: 1.8rem;
+    }
+
+    .cta-final p {
+        font-size: 1rem;
+    }
+
+    .cta-final .cta-button {
+        font-size: 1rem;
+        padding: 10px 20px;
+    }
 }
